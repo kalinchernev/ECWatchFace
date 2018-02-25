@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceApp.mc" lineNum="5" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceApp.mc" lineNum="6" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceApp.mc" lineNum="10" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceApp.mc" lineNum="14" pc="268435484" symbol="onStop"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceApp.mc" lineNum="18" pc="268435489" symbol="getInitialView"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceApp.mc" lineNum="19" pc="268435493" symbol="getInitialView"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="24" pc="268435531" symbol="initialize"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="25" pc="268435535" symbol="initialize"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="26" pc="268435553" symbol="initialize"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="30" pc="268435583" symbol="onLayout"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="31" pc="268435587" symbol="onLayout"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="34" pc="268435631" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="35" pc="268435635" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="36" pc="268435654" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="37" pc="268435673" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="38" pc="268435695" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="40" pc="268435717" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="41" pc="268435734" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="42" pc="268435744" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="44" pc="268435754" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="45" pc="268435764" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="46" pc="268435777" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="49" pc="268435811" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="50" pc="268435824" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="52" pc="268435837" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="53" pc="268435859" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="56" pc="268435881" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="57" pc="268435912" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="63" pc="268435950" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="64" pc="268435981" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="67" pc="268436047" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="70" pc="268436078" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="75" pc="268436180" symbol="onUpdate"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="81" pc="268436283" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="82" pc="268436287" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="84" pc="268436318" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="85" pc="268436318" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="86" pc="268436318" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="87" pc="268436334" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="88" pc="268436344" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="90" pc="268436366" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="92" pc="268436384" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="93" pc="268436411" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="94" pc="268436438" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="95" pc="268436465" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="96" pc="268436492" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="97" pc="268436512" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="98" pc="268436519" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="99" pc="268436546" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="100" pc="268436573" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="101" pc="268436600" symbol="drawDivisions"/>
+        <entry filename="/Users/kalinchernev/eclipse-workspace/EC Europa Watch Face/./source/ECEuropaWatchFaceView.mc" lineNum="102" pc="268436627" symbol="drawDivisions"/>
+        <entry filename="Rez" lineNum="19" pc="268436658" symbol="WatchFace"/>
+        <entry filename="Rez" lineNum="23" pc="268436670" symbol="WatchFace"/>
+        <entry filename="Rez" lineNum="24" pc="268436833" symbol="WatchFace"/>
+        <entry filename="Rez" lineNum="25" pc="268436858" symbol="WatchFace"/>
+        <entry filename="Rez" lineNum="26" pc="268436910" symbol="WatchFace"/>
+        <entry filename="Rez" lineNum="29" pc="268436956" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="24" method="true" symbol="drawDivisions"/>
+        <entry id="9" object="true" symbol="ECEuropaWatchFaceApp"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="16" symbol="TWO_PI"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="13" symbol="Eu"/>
+        <entry field="true" id="22" symbol="hand_minute"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="15" symbol="AppName"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="21" symbol="logo_width"/>
+        <entry field="true" id="14" symbol="LauncherIcon"/>
+        <entry field="true" id="20" symbol="logo"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="8389670" symbol="screenShape"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="12" module="true" symbol="Layouts"/>
+        <entry field="true" id="19" symbol="center_y"/>
+        <entry field="true" id="18" symbol="center_x"/>
+        <entry field="true" id="23" symbol="hand_hour"/>
+        <entry id="10" object="true" symbol="ECEuropaWatchFaceView"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="17" symbol="ANGLE_ADJUST"/>
+        <entry id="11" module="true" symbol="Menus"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435631" name="dc" stackId="1" startPc="268435583"/>
+        <entry endPc="268436282" name="hour" stackId="3" startPc="268435635"/>
+        <entry endPc="268436282" name="now" stackId="2" startPc="268435635"/>
+        <entry endPc="268436282" name="hour_angle" stackId="7" startPc="268435635"/>
+        <entry endPc="268436282" name="hour_fraction" stackId="5" startPc="268435635"/>
+        <entry endPc="268436282" name="minute_angle" stackId="6" startPc="268435635"/>
+        <entry endPc="268436282" name="minute" stackId="4" startPc="268435635"/>
+        <entry endPc="268436283" name="dc" stackId="1" startPc="268435631"/>
+        <entry endPc="268436657" name="i" stackId="9" startPc="268436384"/>
+        <entry endPc="268436657" name="eY" stackId="5" startPc="268436287"/>
+        <entry endPc="268436657" name="eX" stackId="4" startPc="268436287"/>
+        <entry endPc="268436657" name="innerRad" stackId="7" startPc="268436287"/>
+        <entry endPc="268436657" name="outerRad" stackId="6" startPc="268436287"/>
+        <entry endPc="268436657" name="sY" stackId="3" startPc="268436287"/>
+        <entry endPc="268436657" name="sX" stackId="2" startPc="268436287"/>
+        <entry endPc="268436657" name="division" stackId="8" startPc="268436287"/>
+        <entry endPc="268436658" name="dc" stackId="1" startPc="268436283"/>
+        <entry endPc="268436973" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268436670"/>
+        <entry endPc="268436973" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268436670"/>
+        <entry endPc="268436974" name="dc" stackId="1" startPc="268436658"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="ECEuropaWatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="ECEuropaWatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="ECEuropaWatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="ECEuropaWatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ECEuropaWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="ECEuropaWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ECEuropaWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDivisions" parent="ECEuropaWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]>
+            </documentation>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="166" parentId="globals" symbolId="ECEuropaWatchFaceApp" type="class"/>
+        <dataEntry offset="237" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="316" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="363" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="394" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="425" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="456" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="495" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="534" parentId="globals" symbolId="ECEuropaWatchFaceView" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>
